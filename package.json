@@ -1,0 +1,21 @@
+{
+  "name": "hit-parade-react",
+  "version": "1.0.0",
+  "description": "I will document my amazing project in the future.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^3.11.0",
+    "react-is": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5",
+    "styled-components": "^5.2.1"
+  }
+}
